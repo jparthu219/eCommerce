@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ib/iqtRSDtw=",
+  "success": true,
+  "projectFilePath": "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\eCommaerce.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parth\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XoTtGVeRVio=",
+  "success": true,
+  "projectFilePath": "D:\\Microservice\\ecommerce.API\\ecommerce.API\\ecommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parth\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Parth\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommerce.Infra.deps.json
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommerce.Infra.dll
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommerce.Infra.pdb
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommaerce.Core.dll
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommaerce.Core.pdb
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.csproj.AssemblyReference.cache
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.AssemblyInfoInputs.cache
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.AssemblyInfo.cs
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.csproj.CoreCompileInputs.cache
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerc.DD21C74D.Up2Date
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.dll
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\refint\eCommerce.Infra.dll
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.pdb
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\ref\eCommerce.Infra.dll
+D:\Git\eCommerce.Infra\bin\Debug\net8.0\eCommerce.Infra.runtimeconfig.json
+D:\Git\eCommerce.Infra\obj\Debug\net8.0\eCommerce.Infra.genruntimeconfig.cache

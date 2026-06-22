@@ -1,0 +1,12 @@
+D:\Git\eCommaerce.Core\bin\Debug\net8.0\eCommaerce.Core.deps.json
+D:\Git\eCommaerce.Core\bin\Debug\net8.0\eCommaerce.Core.dll
+D:\Git\eCommaerce.Core\bin\Debug\net8.0\eCommaerce.Core.pdb
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.csproj.AssemblyReference.cache
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.AssemblyInfoInputs.cache
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.AssemblyInfo.cs
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.csproj.CoreCompileInputs.cache
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.dll
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\refint\eCommaerce.Core.dll
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\eCommaerce.Core.pdb
+D:\Git\eCommaerce.Core\obj\Debug\net8.0\ref\eCommaerce.Core.dll

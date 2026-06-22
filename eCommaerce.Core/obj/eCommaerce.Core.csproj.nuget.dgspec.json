@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\eCommaerce.Core.csproj": {}
+    "D:\\Git\\eCommaerce.Core\\eCommaerce.Core.csproj": {}
   },
   "projects": {
-    "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\eCommaerce.Core.csproj": {
+    "D:\\Git\\eCommaerce.Core\\eCommaerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\eCommaerce.Core.csproj",
+        "projectUniqueName": "D:\\Git\\eCommaerce.Core\\eCommaerce.Core.csproj",
         "projectName": "eCommaerce.Core",
-        "projectPath": "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\eCommaerce.Core.csproj",
+        "projectPath": "D:\\Git\\eCommaerce.Core\\eCommaerce.Core.csproj",
         "packagesPath": "C:\\Users\\Parth\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservice\\ecommerce.API\\eCommaerce.Core\\obj\\",
+        "outputPath": "D:\\Git\\eCommaerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

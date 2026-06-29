@@ -19,6 +19,10 @@ namespace ecommerce.API.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 if (registerRequest == null)
                     return BadRequest("Invalide Register data");
                 var result = await _userService.Register(registerRequest);
@@ -39,6 +43,10 @@ namespace ecommerce.API.Controllers
         [HttpPost("Login")]
         public async Task<IActionResult> Login(LoginRequest loginRequest)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             if (loginRequest == null)
                 return BadRequest("Invalide login Data");
             var result = await _userService.Login(loginRequest);
